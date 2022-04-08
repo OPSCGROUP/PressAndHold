@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PressAndHoldExample</string>
+
+    <string-array name="description">
+        <item>This is a picture of a drunk barney</item>
+        <item>This is what two dice look like</item>
+        <item>Have you ever seen a gay unicorn? Now you have.</item>
+    </string-array>
+</resources>
